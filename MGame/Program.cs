@@ -17,7 +17,7 @@ namespace MGame
                 UserName = "denizatuk",
                 Password = "123456",
                 DateOfBirth = new DateTime(1996,09,01),
-                NationalityId = "38272072258"
+                NationalityId = "1234523"
             };
 
             UserManager userManager = new UserManager(new MernisServiceAdapter());
